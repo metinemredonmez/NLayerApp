@@ -10,3 +10,15 @@
 /Users/emre/RiderProjects/NLayerApp/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
 /Users/emre/RiderProjects/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
 /Users/emre/RiderProjects/NLayerApp/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.deps.json
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.dll
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.pdb
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.AssemblyReference.cache
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfoInputs.cache
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfo.cs
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.dll
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
+C:/Users/emre/Desktop/NLayerApp/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
